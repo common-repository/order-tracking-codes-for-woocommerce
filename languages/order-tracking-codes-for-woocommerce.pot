@@ -1,0 +1,44 @@
+# Copyright (C) 2020 WeCom
+# This file is distributed under the same license as the Order Tracking Codes for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Order Tracking Codes for WooCommerce 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wecom-order-tracking-codes\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-07-24T14:02:28+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: wecom-order-tracking-codes\n"
+
+#. Plugin Name of the plugin
+msgid "Order Tracking Codes for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add order tracking codes to WooCommerce orders and include them in \"Order Completed\" e-mails."
+msgstr ""
+
+#. Author of the plugin
+msgid "WeCom"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wecommerce.gr"
+msgstr ""
+
+#: wecom-order-tracking-codes.php:50
+msgid "Extra Information"
+msgstr ""
+
+#: wecom-order-tracking-codes.php:54
+msgid "Order Tracking Code:"
+msgstr ""
+
+#: wecom-order-tracking-codes.php:67
+#: wecom-order-tracking-codes.php:86
+msgid "Order Tracking Code"
+msgstr ""
